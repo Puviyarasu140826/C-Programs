@@ -25,7 +25,9 @@
   ---
 
 ### 👨‍🎓 About Me :
+  <div align="left">
 I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="30"> from India.
+
 - 🧑‍🎓: Currently pursuing Bachelor of Engineering(Electronics and Communication) in Bannari Amman Institute of Technology
 
 - 😄:  Striving to help society by offering engineering solutions to challenges that are currently being faced.
