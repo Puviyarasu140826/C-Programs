@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
 <div id="badges"align="center">
@@ -25,4 +25,11 @@
   ---
 
 ### 👨‍🎓 About Me :
-  I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="30"> from India.
+I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="30"> from India.
+- 🧑‍🎓: Currently pursuing Bachelor of Engineering(Electronics and Communication) in Bannari Amman Institute of Technology
+
+- 😄:  Striving to help society by offering engineering solutions to challenges that are currently being faced.
+
+- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Puvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puviyarasu-sakthivel-68694a226/)
